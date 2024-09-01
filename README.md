@@ -37,7 +37,8 @@ Ninth, and final step, is it calculates your CD earned interest, prints it, then
 
 The project follows the following structure:
 
-Code language: Python (python)\
+Code language: Python (python)\  
+  
 customer_banking/\
 ├── Account.py\
 ├── savings_account.py\
@@ -59,7 +60,7 @@ For any questions or feedback, feel free to message Steve at his linkedin site: 
 ## Additional Reading 
 Here is more of Steve's Python work:
 1. Interactive Ordering System from a Food Truck Menu: https://github.com/steve-vierling/python-challenge-1
-2. Case Study on OpenAI: https://github.com/steve-vierling/ai-case-study
+2. Case Study on OpenAI: https://github.com/steve-vierling/ai-case-study  
 I am a beginner python software engineer with a master's degree in Information Systems from Regis University, Denver, CO. I have over 20 years of Unix/Linux experience, software support and 2.5 years in DevOps.  I am passionate about creating efficient and scalable software solutions.
 
 
